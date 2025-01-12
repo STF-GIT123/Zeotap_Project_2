@@ -1,0 +1,22 @@
+[
+    {
+      "question": "How does Zeotap's audience creation process compare to Segment's?",
+      "answer": "Zeotap uses machine learning and AI for creating detailed audience segments, often pulling in third-party data for deeper insights. Segment's audience creation is more focused on event-based triggers and filters."
+    },
+    {
+      "question": "How does Zeotap's audience creation process compare to mParticle's?",
+      "answer": "Zeotap’s approach involves AI-driven insights and external data integration for audience segmentation, while mParticle focuses on real-time event tracking and third-party integration for audience building."
+    },
+    {
+      "question": "How does Zeotap's audience creation process compare to Lytics'?",
+      "answer": "Zeotap and Lytics both leverage machine learning for segmentation but Zeotap uses more extensive third-party data sources and AI, whereas Lytics emphasizes behavioral data and real-time segmentation."
+    },
+    {
+      "question": "How does Zeotap integrate data compared to Segment?",
+      "answer": "Zeotap provides a powerful data integration platform that connects to multiple external data sources, while Segment is focused on ease of use and integrating with a wide array of pre-built connectors."
+    },
+    {
+      "question": "How does Zeotap handle real-time data streaming compared to mParticle?",
+      "answer": "Zeotap enables real-time audience segmentation based on AI-driven insights, while mParticle uses its native SDKs and APIs for real-time data event streaming."
+    }
+  ]

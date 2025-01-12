@@ -1,0 +1,22 @@
+[
+    {
+      "question": "How does mParticle's audience creation process compare to Segment's?",
+      "answer": "mParticle creates audiences based on data streams and integrates easily with third-party tools, whereas Segment focuses more on data organization and event-based triggers for audience creation."
+    },
+    {
+      "question": "How does mParticle's audience creation process compare to Lytics'?",
+      "answer": "mParticle allows audience creation by integrating real-time data and event streams, while Lytics takes a more advanced approach with behavioral analytics and dynamic segmentation."
+    },
+    {
+      "question": "How does mParticle's audience creation process compare to Zeotap's?",
+      "answer": "mParticle provides flexible audience creation using real-time event data, while Zeotap leverages advanced data science techniques and machine learning for audience segmentation based on deeper customer insights."
+    },
+    {
+      "question": "How does mParticle integrate data compared to Segment?",
+      "answer": "mParticle provides a highly customizable integration platform with SDKs, APIs, and pre-built connectors, whereas Segment focuses on simplifying integrations with a wide range of out-of-the-box connectors for popular platforms."
+    },
+    {
+      "question": "How does mParticle handle real-time data streaming compared to Segment?",
+      "answer": "mParticle's real-time data streaming is achieved using their SDKs and APIs, whereas Segment uses Segment Functions to provide real-time data transformations and data flows."
+    }
+  ]

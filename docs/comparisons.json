@@ -1,0 +1,26 @@
+{
+  "audience_creation": {
+    "segment": "Segment allows audience creation by configuring sources, using filters, and segmenting users based on events.",
+    "mparticle": "mParticle allows audience creation using real-time data streams, integrating easily with third-party systems.",
+    "lytics": "Lytics focuses on advanced segmentation using behavioral and demographic data combined with machine learning for real-time audience targeting.",
+    "zeotap": "Zeotap integrates AI and machine learning with external data sources to create sophisticated, data-driven audience segments."
+  },
+  "data_integration": {
+    "segment": "Segment simplifies data integration by connecting sources and destinations, with a focus on event-based data flow.",
+    "mparticle": "mParticle provides customizable integrations with SDKs, APIs, and pre-built connectors for various platforms.",
+    "lytics": "Lytics integrates data from both first-party and third-party sources, combining behavioral data and real-time insights.",
+    "zeotap": "Zeotap excels in data integration by using machine learning and AI to connect multiple external data sources."
+  },
+  "real_time_streaming": {
+    "segment": "Segment handles real-time data streaming through Segment Functions, allowing for custom transformations and live data processing.",
+    "mparticle": "mParticle offers real-time data streaming using SDKs and APIs to track events and send data to various destinations.",
+    "lytics": "Lytics processes real-time data by automating workflows and using event-driven triggers for real-time personalization.",
+    "zeotap": "Zeotap uses AI-driven insights to enable real-time audience segmentation and data analysis."
+  },
+  "custom_integrations": {
+    "segment": "Segment integrates easily with a variety of third-party platforms using out-of-the-box connectors, as well as custom integrations through APIs.",
+    "mparticle": "mParticle allows for custom integrations via APIs and SDKs, with flexibility for integrating with numerous external tools.",
+    "lytics": "Lytics provides advanced integration capabilities through APIs, enabling the creation of custom workflows and audience segments.",
+    "zeotap": "Zeotap supports custom integrations with third-party platforms and leverages AI to enhance the value of the integrated data."
+  }
+}

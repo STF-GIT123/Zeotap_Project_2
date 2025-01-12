@@ -1,0 +1,6 @@
+[
+    {
+        "question": "How do I set up a new source in Segment?",
+        "answer": "To integrate data, navigate to the Integrations page, select your data source, and follow the configuration steps."
+    }
+]
