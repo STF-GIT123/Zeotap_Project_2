@@ -115,3 +115,9 @@ project-folder/
 4. Integrate with live documentation APIs for real-time updates.  
 
 ---
+
+## Credits
+
+Developed by Shaik Tahira Farheen
+
+---
