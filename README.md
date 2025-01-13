@@ -41,10 +41,6 @@ This project implements a *Support Agent Chatbot* designed to assist users with 
 
 ---
 
-## Website link for the CDP Support Agent Chatbot
-
-http://127.0.0.1:5500/
-
 ## Prerequisites  
 1. Ensure you have a modern web browser installed.  
 2. Clone the repository to your local system.  
@@ -54,8 +50,8 @@ http://127.0.0.1:5500/
 ## Setup Instructions  
 
 ### Step 1: Clone the Repository  
-bash  
-git clone https://github.com/your-username/cdp-support-agent-chatbot.git  
+
+git clone  
 cd cdp-support-agent-chatbot  
   
 
